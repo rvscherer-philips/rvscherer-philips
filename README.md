@@ -1,13 +1,5 @@
 ### Hi! Do you want to know a little about me? [:smiley:]
 
-#### Here's an overview of me
-
-- :smiley: I'm 17 years old.
-- :soccer: :kimono: I love sports, practice karate for years and play football casually.
-- :trophy: I like to participate in winds and "competitions" in the technology area and I got good places in which I already participated.
-- :guitar: I also have a passion for music since I was a kid, I play guitar and play with some other instruments sometimes.
-- So let's go to what matters most...
-
 #### My academic background
 - :mortar_board: I'm a computer technician (CEDUP Hermann Hering).
 - :mortar_board: I am studying Information Systems (Uniasselvi).
