@@ -15,8 +15,8 @@
 - ⚡ I love so much to learn and use new technologies in projects.
 
 #### Where I have worked
-- :rocket: I worked for a few months as a freelancer developing for the web.
-- :rocket: I currently work at Philips Clinical Informatics as a Fullstack Software Developer.
+- :globe_with_meridians: I worked for a few months as a freelancer developing for the web.
+- :computer: I currently work at Philips Clinical Informatics as a Fullstack Software Developer.
 - :rocket: I am interested in collaborating on projects of any kind, using technology and making a difference.
 
 #### Some extras...
