@@ -1,4 +1,4 @@
-### Hi! Do you want to know a little about me? [:smiley:]
+### Hi! Do you want to know a little about me? :smiley:
 
 #### My academic background
 - :mortar_board: I'm a computer technician (CEDUP Hermann Hering).
