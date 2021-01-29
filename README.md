@@ -6,7 +6,7 @@
 - :books: I'm learning more about development using Javascript/Typescript and exploring other languages like Python, C# and Java.
 - ⚡ I love so much to learn and use new technologies in projects.
 
-#### Where I have worked
+#### Where I worked
 - :globe_with_meridians: I worked for a few months as a freelancer developing for the web.
 - :computer: I currently work at Philips Clinical Informatics as a Fullstack Software Developer.
 - :rocket: I am interested in collaborating on projects of any kind, using technology and making a difference.
